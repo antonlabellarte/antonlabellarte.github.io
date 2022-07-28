@@ -18,12 +18,12 @@ form {
     height: 16;
 }
 
-#buttonicone {
-    margin-left: 15px;
-    margin-right: 15px;
-    margin-top: 45px;
-    margin-bottom: 20px;
+a {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
+
+
 
 #bottone {
     border-color: black;
