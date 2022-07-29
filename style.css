@@ -48,7 +48,7 @@ p {
 
 body {
     background-image: url("background.webp");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat scroll;
     background-attachment: fixed;
     background-position: center;
 }
