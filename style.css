@@ -48,6 +48,9 @@ p {
 
 body {
     background-image: url("background.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .navbar-brand {
