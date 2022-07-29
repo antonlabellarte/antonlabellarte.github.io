@@ -46,13 +46,6 @@ p {
     margin-bottom: 30px;
 }
 
-body {
-    background-image: url("background.webp") no-repeat center center;
-    background-repeat: no-repeat scroll;
-    background-attachment: fixed;
-    background-position: center;
-}
-
 body:before {
     content: "";
     display: block;
